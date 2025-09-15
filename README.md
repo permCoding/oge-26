@@ -30,6 +30,13 @@
 
 ---  
 
+Каталоги задач к ОГЭ:  
+
+> [школково](https://3.shkolkovo.online/catalog?SubjectId=34)  
+> [решу ОГЭ](https://inf-oge.sdamgia.ru/?redir=1)  
+
+---  
+
 ### Темы 9-го класса:  
 
 ```txt
