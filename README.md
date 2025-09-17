@@ -34,6 +34,7 @@
 
 > [школково](https://3.shkolkovo.online/catalog?SubjectId=34)  
 > [решу ОГЭ](https://inf-oge.sdamgia.ru/?redir=1)  
+> [ФИПИ ОГЭ банк заданий](https://oge.fipi.ru/bank/index.php?proj=74676951F093A0754D74F2D6E7955F06)  
 
 ---  
 
