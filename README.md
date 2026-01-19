@@ -27,6 +27,7 @@
 > [Кумир](https://www.niisi.ru/kumir/dl.htm)  
 > [PascalABC](https://pascalabc.net/ssyilki-dlya-skachivaniya)  
 > [Python](https://www.python.org/downloads/)  
+> [Редактор блок-схем](https://viktor-zin.github.io/afce/)  
 
 ---  
 
