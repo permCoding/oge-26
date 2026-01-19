@@ -1,13 +1,10 @@
-import math
+r = float(input())
 
-PI = math.pi
-r = float(input("введите радиус круга - "))
+c = 2 * 3.14 * r
+s = 3.14 * r * r
 
-L = 2 * PI * r
-S = PI * r ** 2
-
-print('L =', round(L, 2))
-print('S =', round(S, 2))
+print(f'c = {c}')
+print(f's = {s}')
 
 
 """
