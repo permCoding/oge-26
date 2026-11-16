@@ -3,7 +3,8 @@
 
 ### Для онлайн занятий:  
 
-> [Кабинет](https://telemost.yandex.ru/j/05787508074338)  
+> [Кабинет МТС](https://my.mts-link.ru/j/176679115/24035685893)  
+> [Кабинет Yandex](https://telemost.yandex.ru/j/05787508074338)  
 
 ```txt
 - начинаем в 17:00 по пн и чт (можно заходить чуточку заранее)  
@@ -17,8 +18,8 @@
 ```  
 
 Для совместного решения задач:  
+> [Доска mail.ru](https://board.mail.ru/?uid=2db1e9bb-bd7d-429a-920c-dc3c867be675)  
 > [Доска unidraw](https://unidraw.io/app/board/b827e0afc2830dd12cbd?allow_guest=true)  
-> [Доска VK](https://board.vk.com/?uid=2db1e9bb-bd7d-429a-920c-dc3c867be675)  
 
 ---  
 
